@@ -231,7 +231,7 @@ function localized(value, lang) {
 }
 
 function render(lang) {
-  const strings = ui[lang] || ui.en;
+  const strings = ui[keys[lang]] || ui.en;
   document.documentElement.lang = lang;
   document.querySelectorAll("[data-ui]").forEach(node => {
     const value = strings[node.dataset.ui];
