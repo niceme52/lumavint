@@ -141,6 +141,26 @@ const privacy = [
       ko: "LUMAVINT Pro 구매는 Apple에서 처리합니다. 앱은 잠금 해제와 복원에 필요한 검증된 거래 정보만 받습니다. 광고 SDK, 앱 간 추적, 개발자 운영 분석은 없습니다.",
       es: "Apple gestiona las compras de LUMAVINT Pro. La app solo recibe la información verificada necesaria para desbloquear y restaurar el acceso. No hay SDK publicitario, seguimiento entre apps ni analíticas del desarrollador."
     }
+  },
+  {
+    h: {
+      zh: "支持邮件与托管服务",
+      en: "Support requests and hosting",
+      de: "Support-Anfragen und Hosting",
+      fr: "Demandes d’assistance et hébergement",
+      ja: "サポートへのお問い合わせとホスティング",
+      ko: "지원 요청 및 호스팅",
+      es: "Solicitudes de soporte y alojamiento"
+    },
+    p: {
+      zh: "如果你主动发送支持邮件，我们会收到你提供的邮箱地址、邮件内容及自愿附带的文件，仅用于回复和支持排查，并按处理请求所需的期限保存。GitHub Pages 托管方可能处理页面访问所必需的技术日志。LUMAVINT 不会把照片上传到开发者服务器。",
+      en: "If you email support, we receive the address, message, and any files you choose to provide. This information is used only to respond and troubleshoot and is retained only as long as needed to handle the request. GitHub Pages hosting may process standard technical logs required to serve the page. LUMAVINT does not upload your photos to a developer server.",
+      de: "Wenn du den Support per E-Mail kontaktierst, erhalten wir die angegebene E-Mail-Adresse, den Nachrichteninhalt und freiwillig beigefügte Dateien. Diese Angaben werden nur zur Beantwortung und Fehleranalyse verwendet und nur so lange aufbewahrt, wie es für die Bearbeitung erforderlich ist. Der GitHub-Pages-Hoster kann technische Standardprotokolle für den Seitenabruf verarbeiten. LUMAVINT lädt deine Fotos nicht auf einen Entwicklerserver hoch.",
+      fr: "Si vous écrivez à l’assistance, nous recevons l’adresse indiquée, le message et les éventuels fichiers que vous choisissez de joindre. Ces informations servent uniquement à répondre et à diagnostiquer le problème, et sont conservées seulement le temps nécessaire au traitement. L’hébergeur GitHub Pages peut traiter des journaux techniques standards nécessaires à la diffusion de la page. LUMAVINT ne téléverse pas vos photos vers un serveur du développeur.",
+      ja: "サポートへメールを送る場合、記載されたメールアドレス、本文、任意で添付したファイルを受け取ります。これらは返信と問題調査のみに使用し、対応に必要な期間だけ保存します。GitHub Pages のホスティング事業者は、ページ配信に必要な標準的な技術ログを処理する場合があります。LUMAVINT は写真を開発者のサーバーへアップロードしません。",
+      ko: "지원 이메일을 보내면 제공한 이메일 주소, 메시지 내용 및 자발적으로 첨부한 파일을 받습니다. 이 정보는 답변과 문제 해결에만 사용하며 요청 처리에 필요한 기간 동안만 보관합니다. GitHub Pages 호스팅 제공업체는 페이지 제공에 필요한 표준 기술 로그를 처리할 수 있습니다. LUMAVINT는 사진을 개발자 서버에 업로드하지 않습니다.",
+      es: "Si escribes al soporte, recibiremos la dirección indicada, el mensaje y los archivos que decidas adjuntar. Esta información se usa únicamente para responder y resolver la consulta, y se conserva solo durante el tiempo necesario para atenderla. El proveedor de alojamiento de GitHub Pages puede procesar registros técnicos estándar necesarios para servir la página. LUMAVINT no sube tus fotos a un servidor del desarrollador."
+    }
   }
 ];
 
